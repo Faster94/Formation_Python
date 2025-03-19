@@ -1,0 +1,1 @@
+ghghfdgr [Key.ctrl_l]  [Key.ctrl_l] exit [Key.enter]  [Key.ctrl_l]  [Key.shift]  [Key.shift]  [Key.ctrl_l]  [Key.esc]  [Key.ctrl_l]  [Key.backspace]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l] 
